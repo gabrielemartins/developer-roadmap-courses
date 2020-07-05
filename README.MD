@@ -4,7 +4,7 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 
 ## Required for any path
 ### Git and GitHub
-- :book: [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub (Apress) | Book | Text: English, български език, Deutsch, Español, Français, Ελληνικά, 日本語, 한국어, Nederlands, Русский, Slovenščina, Tagalog , Українська. 简体中文 | Partial translation:  16 Languages
+- :book: [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub (Apress) | Book | Text: English, Bulgarian, German, Spanish, French, Greek, Japanese, Korean, Dutch, Russian, Slovene, Tagalog, Ukrainian, Chinese | Partial translation:  16 Languages
 
 -  :clapper: [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) - Udacity |  Course | Audio: English | Subtitles:  Arabic, Chinese and Portuguese 
 *(Youtube subtitles translator is available and support more languages, check it out)*
