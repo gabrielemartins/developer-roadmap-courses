@@ -13,4 +13,4 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 
 - :page_facing_up: [Git for Developers Using Github](https://www.coursera.org/programs/4c600a0d-4714-4ee7-b8ac-fbcedf955304?collectionId=&productId=v1PhHrG6EeqvmBJpqY8HJQ&productType=course&showMiniModal=true) - Coursera | Project-based course | Text: English
 
--:page_facing_up: [Dangit, Git!?!](https://dangitgit.com/en) - Article | Katie Sylor-Miller | Text: English, Czech, German, Spanish, French, Italian, Polish, Russian, Hebrew, Indonesian, Japanese, Dutch, Portuguese, Romanian, Serbia, Ukrainian, Chinese.
+- :page_facing_up: [Dangit, Git!?!](https://dangitgit.com/en) - Article | Katie Sylor-Miller | Text: English, Czech, German, Spanish, French, Italian, Polish, Russian, Hebrew, Indonesian, Japanese, Dutch, Portuguese, Romanian, Serbia, Ukrainian, Chinese.
