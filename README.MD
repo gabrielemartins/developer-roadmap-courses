@@ -6,7 +6,7 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 ### Git and GitHub
 - :book: [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub (Apress) | Book | Text: English, Bulgarian, German, Spanish, French, Greek, Japanese, Korean, Dutch, Russian, Slovene, Tagalog, Ukrainian, Chinese | Partial translation:  16 Languages
 
--  :clapper: [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) - Udacity |  Course | Audio: English | Subtitles:  Arabic, Chinese and Portuguese 
+-  :clapper: [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) - Udacity | Course | Audio: English | Subtitles: Arabic, Chinese and Portuguese 
 *(Youtube subtitles translator is available and support more languages, check it out)*
 
 - :clapper: [Introduction to Git and GitHub](https://www.coursera.org/programs/4c600a0d-4714-4ee7-b8ac-fbcedf955304?collectionId=&productId=-qIqP1FsEemNmQ6a3syMJg&productType=course&showMiniModal=true) - Coursera | Course | Audio: English | Subtitles: English | Text: English
@@ -23,3 +23,5 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 
 -  :clapper: [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) - Udacity | Course | Audio: English | Subtitles: Arabic, Chinese and Portuguese | Text: English
 *(Youtube subtitles translator is available and support more languages, check it out)*
+
+-  :clapper: [Linux Basics: The Command Line Interface](https://www.edx.org/course/linux-basics-the-command-line-interface) - EDX | Course | Audio: English | Subtitles: English | Text: English
