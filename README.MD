@@ -18,3 +18,6 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 ### Basic Terminal Usage
 -  :clapper: [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) - Udacity | Course | Audio: English | Subtitles: Arabic, Chinese and Portuguese | Text: English
 *(Youtube subtitles translator is available and support more languages, check it out)*
+
+-  :clapper: [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) - Udacity | Course | Audio: English | Subtitles: Arabic, Chinese and Portuguese | Text: English
+*(Youtube subtitles translator is available and support more languages, check it out)*
