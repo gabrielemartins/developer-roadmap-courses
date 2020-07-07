@@ -15,6 +15,8 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 
 - :page_facing_up: [Dangit, Git!?!](https://dangitgit.com/en) - Article | Katie Sylor-Miller | Text: English, Czech, German, Spanish, French, Italian, Polish, Russian, Hebrew, Indonesian, Japanese, Dutch, Portuguese, Romanian, Serbia, Ukrainian, Chinese.
 
+- :page_facing_up: [Git Immersion](https://gitimmersion.com/index.html) - Article | Jim Weirich | Text: English
+
 ### Basic Terminal Usage
 -  :clapper: [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) - Udacity | Course | Audio: English | Subtitles: Arabic, Chinese and Portuguese | Text: English
 *(Youtube subtitles translator is available and support more languages, check it out)*
