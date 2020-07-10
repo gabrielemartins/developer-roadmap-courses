@@ -25,3 +25,7 @@ Hello World! This is a repository that list content based on the [The 2020 Web D
 *(Youtube subtitles translator is available and support more languages, check it out)*
 
 -  :clapper: [Linux Basics: The Command Line Interface](https://www.edx.org/course/linux-basics-the-command-line-interface) - EDX | Course | Audio: English | Subtitles: English | Text: English
+
+### Data Structures and Algorithms
+-  :clapper: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - Coursera | Course | Audio: English | Subtitles: Arabic, Chinese and Portuguese | Text: English
+*(Youtube subtitles translator is available and support more languages, check it out)*
